@@ -4,6 +4,7 @@ Aspiring Data Engineer | Data Science Enthusiast | Chess Player
 
 
 🔍**About Me**
+
 🎓 Data Science Student with a passion for data-driven insights.
 💻 Tech Enthusiast exploring the realms of Python and Machine Learning.
 🔧 Learning and working towards becoming a Data Engineer to create impactful solutions.
@@ -11,6 +12,7 @@ Aspiring Data Engineer | Data Science Enthusiast | Chess Player
 
 
 ⚙️**Tech Stack**
+
 Languages: Python, SQL, R
 Libraries & Tools:
 Data Analysis: Pandas, NumPy, Matplotlib
