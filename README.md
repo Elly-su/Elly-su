@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Data Science Student with a passion for data-driven insights.<br>💻 Tech Enthusiast exploring the realms of Python and Machine Learning.<br>🔧 Learning and working towards becoming a Data Engineer to create impactful solutions.<br>♟️ When I’m not coding, I’m challenging myself on the chessboard.
+🎓 Data Science Student with a passion for data-driven insights.<br>💻 Tech Enthusiast exploring the realms of Python and Machine Learning.<br>🔧 Learning and working towards becoming a Data Engineer to create impactful solutions.<br>♟️ When I’m not coding, I’m challenging myself on the chessboard!
 
 
 ## 🌐 Socials:
