@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 Data Science Student with  passion for data-driven insights.<br>🔧 Learning and working towards becoming a Data Engineer to create impactful solutions.<br>♟️ When I’m not coding, I’m challenging myself on the chessboard!
-
+🎓 Data Science Student with  passion for data-driven insights.<br>🔧 Learning and working towards becoming a Data Engineer to create impactful solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wyd3llyx)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/3llywydx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elliotieno18@gmail.com) 
