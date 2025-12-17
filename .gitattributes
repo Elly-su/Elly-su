@@ -1,0 +1,17 @@
+# GitHub Linguist Configuration
+# This file controls how GitHub detects languages in your repository
+
+# Mark documentation as linguist-documentation (excluded from stats)
+*.md linguist-documentation
+docs/** linguist-documentation
+README.md linguist-documentation
+
+# Mark vendored/third-party code (excluded from stats)
+vendor/** linguist-vendored
+node_modules/** linguist-vendored
+*.min.js linguist-vendored
+*.d.ts linguist-vendored
+
+# Explicitly exclude TypeScript files if they appear
+*.ts linguist-vendored=false linguist-detectable=false
+*.tsx linguist-vendored=false linguist-detectable=false
