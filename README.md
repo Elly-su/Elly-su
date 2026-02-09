@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Data Science Student with passion for data-driven insights.<br>🔧 Learning and working towards becoming a Data Engineer to create impactful solutions.
+🎓 Data Science.<br>🔧 Interested in how data moves, breaks, and becomes insight.
 
 
 ## 🌐 Socials:
