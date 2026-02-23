@@ -1,10 +1,10 @@
-<h1 align="center">Elly Ochieng' Kimbero</h1>
+<h1 align="left">Elly Ochieng' Kimbero</h1>
 
-<h3 align="center">
+<h3 align="left">
 Big Data Engineer | Architecting Scalable, Reliable Data Platforms
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:elliotieno18@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -98,17 +98,6 @@ Key Engineering Focus:
 - Structured logging and pipeline observability  
 - Production-grade project structure  
 
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elly-su&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elly-su&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## Collaboration
 
